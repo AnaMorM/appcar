@@ -89,7 +89,6 @@
         <a href="control_usuarios.php" class="btn btn-primary pink-gradient">Registrarse</a>
     </div>
                                         
-<script src="js/valida_login.js"></script>
                               
        
                                 </form>
