@@ -125,9 +125,6 @@
         </div>
     </footer>
 
-
-
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="js/jquery-3.2.1.min.js"></script>
@@ -144,30 +141,5 @@
     <script src="js/main.js"></script>
 
     <!-- page specific script -->
-    <script>
-        'use strict';
-        var mySwiper = new Swiper('.swiper-signin', {
-            slidesPerView: 1,
-            spaceBetween: 0,
-            autoplay: true,
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            }
-        });
-
-        $(window).on('resize', function() {
-            var mySwiper = new Swiper('.swiper-signin', {
-                slidesPerView: 1,
-                spaceBetween: 0,
-                autoplay: true,
-                pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true,
-                }
-            });
-        });
-
-    </script>
 </body>
 </html>
