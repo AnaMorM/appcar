@@ -1,10 +1,8 @@
 ﻿<!doctype html>
-<html>
+<html lang="en">
 
 <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
 
     <!-- favicons -->
     <link rel="apple-touch-icon" href="img/favicon-apple.png">
@@ -66,13 +64,8 @@
     <small class="form-text text-muted">Por favor ingrese toda la información requerida para el acceso al sistema.</small>
 
     <div class="my-4 row">
-        <div class="col-12 col-md">
-            <div class="custom-control custom-checkbox">
-                <input name='admin' type="checkbox" class="custom-control-input" id="customCheck1" checked="">
-            </div>
-        </div>
         <div class="col-12 col-md text-right">
-            <a href="" class="content-color-primary">¿Olvido su Clave?</a>
+            <a href="ignin1.php" class="content-color-primary">¿Olvido su Clave?</a>
         </div>
     </div>
 </div>
