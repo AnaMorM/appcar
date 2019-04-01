@@ -1,5 +1,5 @@
 ﻿<!doctype html>
-<html lang="en" action="validar_usuario.php" method="post">
+<html>
 
 <head>
     <!-- Required meta tags -->
@@ -52,7 +52,6 @@
                             <div class="col-10 col-md-10 col-lg-8 col-xl-6 mx-auto">
                                 <h1 class="font-weight-light mb-3 mt-4 content-color-secondary text-left">Logo<span class="font-weight-normal content-color-primary">PARQUEADERO</span></h1>
                                 <h4 class="font-weight-light mb-4 content-color-secondary text-left">Bienvenido,<br>Por Favor Ingrese.</h4>
-                            <form role="form" name="login" action="login.php" method="post">
                                         
 <div class="form-group">
     <div class="card mb-2">
